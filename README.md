@@ -12,7 +12,8 @@
     </a>
 </p>
 
-<p>Over 8 years of experience in efficient database design and web application development are my strongest strengths. Developed web applications keeping in mind the OOP concept and MVC pattern. Extensive knowledge and hands-on experience in software architecture, microservices application development and RESTful APIs. Good communication, analytical and interpersonal skills are key to success for me.</p>
+<p>Over 8 years of experience in efficient database design and web application development are my strongest strengths. Developed web applications keeping in mind the OOP concept and MVC pattern. Extensive knowledge and hands-on experience in software architecture, microservices application development and RESTful APIs.</p>
+<p>Good communication, analytical and interpersonal skills are key to success for me</p>
 
 - 🔭 I’m currently working on <a href="https://laravel.com/">Laravel Framework</a>.
 - 🌱 I’m currently learning more about React Js, Graphql, MongoDB.
