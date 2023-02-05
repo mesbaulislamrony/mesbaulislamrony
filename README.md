@@ -39,6 +39,6 @@
 </p>
 
 <a href="https://github.com/mesbaulislamrony/">
-<img height="150px" width="425px" src="https://github-readme-stats.vercel.app/api?username=mesbaulislamrony&show_icons=true&hide_title=true&hide_border=true&theme=white" />
-<img height="150px" width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesbaulislamrony&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=white" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=mesbaulislamrony&show_icons=true&hide_title=true&hide_border=true&theme=white" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesbaulislamrony&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=white" />
 </a>
