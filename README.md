@@ -14,6 +14,15 @@
 
 <p>Over 8 years of experience in efficient database design and web application development are my strongest strengths. Developed web applications keeping in mind the OOP concept and MVC pattern. Extensive knowledge and hands-on experience in software architecture, microservices application development and RESTful APIs. Good communication, analytical and interpersonal skills are key to success for me.</p>
 
+- 🔭 I’m currently working on <a href="https://laravel.com/">Laravel Framework</a>.
+- 🌱 I’m currently learning more about React Js, Graphql, MongoDB.
+- 👯 I’m looking to collaborate on open source project.
+- 🤔 I’m looking for help with problem-solving.
+- 💬 Ask me about Full stack development(PHP/Laravel).
+- 📫 How to reach me: [Linkedin - @Mesbaul Islam](https://www.linkedin.com/in/mesbaul-islam/), [Facebook - @Mesbaul Islam](https://www.facebook.com/mesbaulNrony/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spent my most of the time to watching web series.
+
 <h3 align="left">Technologies and tools</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/Laravel-F9322C?style=plastic&logo=Laravel&logoColor=fff">
