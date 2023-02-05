@@ -1,24 +1,18 @@
 <h1 align="left">Hi 👋, I'm Mesbaul Islam</h1><p align="left">
-<p align="left">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/mesbaul-islam/">
-    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/mesbaulNrony/">
-    <img alt="Gmail" src="https://img.shields.io/badge/-mesbaul.cse26@gmail.com-black?style=flat-square&logo=Gmail&logoColor=red&link=mailto:mesbaul.cse26@gmail.com">
-    <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=Git&link=https://gitlab.com/mesbaul">
-</p>
-
 <h3 align="left">A crazy backend developer</h3>
-
-<p>Over 8 years of experience in efficient database design and web application development are my strongest strengths. Developed web applications keeping in mind the OOP concept and MVC pattern. Extensive knowledge and hands-on experience in software architecture, microservices application development and RESTful APIs. Good communication, analytical and interpersonal skills are key to success for me.</p>
-
-<h3 align="left">Connect with me</h3>
 <p align="left">
     <a target="_blank" href="https://www.linkedin.com/in/mesbaul-islam/">
-        <img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=Linkedin&logoColor=fff">
+        <img src="https://img.shields.io/badge/Linkedin-white?style=flat-square&logo=Linkedin&logoColor=blue">
     </a>
     <a target="_blank" href="https://www.facebook.com/mesbaulNrony/">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=fff">
+        <img src="https://img.shields.io/badge/Facebook-white?style=flat-square&logo=Facebook&logoColor=blue">
+    </a>
+    <a target="_blank" href="mailto:mesbaul.cse26@gmail.com">
+        <img src="https://img.shields.io/badge/-mesbaul.cse26@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red">
     </a>
 </p>
+
+<p>Over 8 years of experience in efficient database design and web application development are my strongest strengths. Developed web applications keeping in mind the OOP concept and MVC pattern. Extensive knowledge and hands-on experience in software architecture, microservices application development and RESTful APIs. Good communication, analytical and interpersonal skills are key to success for me.</p>
 
 <h3 align="left">Technologies and tools</h3>
 <p align="left">
