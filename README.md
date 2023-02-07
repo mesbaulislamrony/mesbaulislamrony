@@ -48,9 +48,6 @@
     <img src="https://img.shields.io/badge/Redis-9E2220?style=plastic&logo=Redis&logoColor=white">
 </p>
 
-<h3 align="left">Want to discuss topics of interest?</h3>
-- 💬 Ask me about `web APIs` `system design` `design patterns` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
-
 <a href="https://github.com/mesbaulislamrony/">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mesbaulislamrony&show_icons=true&hide_title=true&hide_border=true&theme=white" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesbaulislamrony&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=white" />
