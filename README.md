@@ -12,8 +12,8 @@
     </a>
 </p>
 
-<p>Over 8 years of experience in efficient database design and web application development are my strongest strengths. Developed web applications keeping in mind the OOP concept and MVC pattern. Extensive knowledge and hands-on experience in software architecture, microservices application development and RESTful APIs.</p>
-<p>Good communication, analytical and interpersonal skills are key to success for me</p>
+<p>Over 8 years of experience in efficient database design and product development. CRM, eduTech, based applications targeting multi-platform and cross-platform ecosystem in monolicth and microservices architechtures.</p>
+<p>Sound knowledge for understand business logic and interpersonal skills are key to success for me.</p>
 
 - 🔭 I’m currently working on <a href="https://laravel.com/">Laravel Framework</a>.
 - 🌱 I’m currently learning more about React Js, Graphql, MongoDB.
@@ -47,6 +47,9 @@
     <img src="https://img.shields.io/badge/Docker-22B4E7?style=plastic&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-9E2220?style=plastic&logo=Redis&logoColor=white">
 </p>
+
+<h3 align="left">Want to discuss topics of interest?</h3>
+- 💬 Ask me about `web APIs` `system design` `design patterns` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
 
 <a href="https://github.com/mesbaulislamrony/">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mesbaulislamrony&show_icons=true&hide_title=true&hide_border=true&theme=white" />
