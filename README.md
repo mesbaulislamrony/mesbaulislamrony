@@ -12,8 +12,8 @@
     </a>
 </p>
 
-<p>Over 8 years of experience in efficient database design and product development. CRM, eduTech, based applications targeting multi-platform and cross-platform ecosystem in monolicth and microservices architechtures.</p>
-<p>Sound knowledge for understand business logic and interpersonal skills are key to success for me.</p>
+<p>I’m a backend-focused software engineer building scalable web applications and RESTful APIs using Laravel, PHP, and modern backend technologies. I solve real world business problems through clean, maintainable code and strong team collaboration.
+</p>
 
 - 🔭 I’m currently working on <a href="https://laravel.com/">Laravel Framework</a>.
 - 🌱 I’m currently learning more about React Js, Graphql, MongoDB.
